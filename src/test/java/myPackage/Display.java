@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class Display {
 @Test
 private void syso() {
-	System.out.println("Display");
+	System.out.println("Your or My Display?");
 
 }
 }
