@@ -6,6 +6,7 @@ public class Display {
 @Test
 private void syso() {
 	System.out.println("Your or My Display?");
+	System.out.println("My Display");
 
 }
 }
